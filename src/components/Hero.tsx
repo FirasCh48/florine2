@@ -49,7 +49,7 @@ export function Hero() {
         >
           <div className="w-full h-full rounded-2xl overflow-hidden relative group">
             <img 
-              src="/src/assets/images/satin_red_bouquet_1785779041811.jpg" 
+              src="/images/satin_red_bouquet_1785779041811.jpg" 
               alt="Handcrafted Satin Ribbon Red Roses Bouquet" 
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover object-center opacity-95 transition-transform duration-700 group-hover:scale-110"
@@ -65,7 +65,7 @@ export function Hero() {
         >
           <div className="w-full h-full rounded-2xl overflow-hidden relative group">
             <img 
-              src="/src/assets/images/satin_blue_bouquet_1785779059693.jpg" 
+              src="/images/satin_blue_bouquet_1785779059693.jpg" 
               alt="Handcrafted Royal Blue Satin Ribbon Roses Bouquet" 
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover object-center opacity-95 transition-transform duration-700 group-hover:scale-110"

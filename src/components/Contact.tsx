@@ -103,7 +103,7 @@ export function Contact() {
             
             <div className="w-full aspect-[4/3] rounded-3xl overflow-hidden mt-4 shadow-xl border border-brand-gold/20 relative group">
               <img 
-                src="/src/assets/images/satin_black_red_bouquet_1785779074229.jpg" 
+                src="/images/satin_black_red_bouquet_1785779074229.jpg" 
                 alt="Handmade Satin Ribbon Flower Bouquet" 
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"

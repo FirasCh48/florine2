@@ -23,7 +23,7 @@ export function BestSellers() {
       price: 120,
       originalPrice: 150,
       badge: "Bestseller",
-      image: "/src/assets/images/satin_red_bouquet_1785779041811.jpg",
+      image: "/images/satin_red_bouquet_1785779041811.jpg",
       description: {
         en: "Handfolded deep crimson satin roses bouquet wrapped in layered black paper with gold accents.",
         fr: "Bouquet artisanal de roses en satin rouge velours emballé dans du papier noir mat chic.",
@@ -37,7 +37,7 @@ export function BestSellers() {
       price: 110,
       originalPrice: 140,
       badge: "Nouveau",
-      image: "/src/assets/images/satin_blue_bouquet_1785779059693.jpg",
+      image: "/images/satin_blue_bouquet_1785779059693.jpg",
       description: {
         en: "Vibrant royal blue satin roses with gold trimming and soft satin ribbon bow.",
         fr: "Bouquet royal bleu en ruban satin brillant avec finitions dorées.",
@@ -51,7 +51,7 @@ export function BestSellers() {
       price: 160,
       originalPrice: 190,
       badge: "Pack Luxe",
-      image: "/src/assets/images/satin_black_red_bouquet_1785779074229.jpg",
+      image: "/images/satin_black_red_bouquet_1785779074229.jpg",
       description: {
         en: "Double arrangement matching master red bouquet and companion sapphire blue mini-bouquet.",
         fr: "Duo de bouquets assortis rouge passion et bleu saphir en satin haut de gamme.",
@@ -65,7 +65,7 @@ export function BestSellers() {
       price: 135,
       originalPrice: 165,
       badge: "Coup de Cœur",
-      image: "/src/assets/images/satin_pastel_box_1785779088402.jpg",
+      image: "/images/satin_pastel_box_1785779088402.jpg",
       description: {
         en: "Luxury round velvet box with pastel pink and champagne gold ribbon roses adorned with pearls.",
         fr: "Boîte ronde en velours garnie de roses pastel et perles nacrées faites main.",
@@ -79,7 +79,7 @@ export function BestSellers() {
       price: 145,
       originalPrice: 180,
       badge: "Mariage Luxe",
-      image: "/src/assets/images/satin_red_bouquet_1785779041811.jpg"
+      image: "/images/satin_red_bouquet_1785779041811.jpg"
     },
     {
       id: 6,
@@ -88,7 +88,7 @@ export function BestSellers() {
       price: 125,
       originalPrice: 150,
       badge: "Sur Mesure",
-      image: "/src/assets/images/satin_blue_bouquet_1785779059693.jpg"
+      image: "/images/satin_blue_bouquet_1785779059693.jpg"
     }
   ];
 
